@@ -1,0 +1,13 @@
+1. 把生活中想到的想法，見解，立刻記錄下來。
+   可以使自己加深印象，並讓大腦能有更多的空間與精力去處理其他事情。
+   
+2. 每天也將之前未完成的事，在拿出來回想一下，重要的事情不要漏掉。
+
+3. Demo app FD/FR 的問題：透過write out binary，將樹入資料寫出，並用ann跑一下數值。
+
+4. 今天整理一下AI目前所作的兩個apk，並把他們上code。
+
+5. Plan: Re-factor the two FR app.
+   - iVOT version first, then mine.
+   - Split the big function to several smaller functions
+   - Make sure the correction.

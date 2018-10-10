@@ -1,0 +1,11 @@
+
+
+20181011:
+1. H-Project Android 64bit BSP
+- xboot booting issue: memory map checking. (Alvin helps to check)
+- linux4.9 booting issue: cannot boot to init. (First priority)
+- Solve conflicts and released
+- Studys: Memory was mapped in xboot, take care the mapping is importment. 
+
+2. AI projects.
+- 
